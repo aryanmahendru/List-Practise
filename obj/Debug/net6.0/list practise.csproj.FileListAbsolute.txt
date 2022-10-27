@@ -1,0 +1,15 @@
+F:\c#\list practise\bin\Debug\net6.0\list practise.exe
+F:\c#\list practise\bin\Debug\net6.0\list practise.deps.json
+F:\c#\list practise\bin\Debug\net6.0\list practise.runtimeconfig.json
+F:\c#\list practise\bin\Debug\net6.0\list practise.dll
+F:\c#\list practise\bin\Debug\net6.0\list practise.pdb
+F:\c#\list practise\obj\Debug\net6.0\list practise.csproj.AssemblyReference.cache
+F:\c#\list practise\obj\Debug\net6.0\list practise.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\list practise\obj\Debug\net6.0\list practise.AssemblyInfoInputs.cache
+F:\c#\list practise\obj\Debug\net6.0\list practise.AssemblyInfo.cs
+F:\c#\list practise\obj\Debug\net6.0\list practise.csproj.CoreCompileInputs.cache
+F:\c#\list practise\obj\Debug\net6.0\list practise.dll
+F:\c#\list practise\obj\Debug\net6.0\refint\list practise.dll
+F:\c#\list practise\obj\Debug\net6.0\list practise.pdb
+F:\c#\list practise\obj\Debug\net6.0\list practise.genruntimeconfig.cache
+F:\c#\list practise\obj\Debug\net6.0\ref\list practise.dll
